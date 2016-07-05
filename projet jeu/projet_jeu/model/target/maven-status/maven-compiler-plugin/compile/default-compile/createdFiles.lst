@@ -1,0 +1,15 @@
+model\elements\Entity.class
+model\Model.class
+model\elements\AI.class
+model\elements\Street.class
+model\Sprite.class
+model\elements\Car.class
+model\Location.class
+model\database\DBProperties.class
+model\elements\Opponent$1.class
+model\elements\Opponent.class
+model\AnimatedSprite.class
+model\database\DBConnection.class
+model\Level.class
+model\Dimension.class
+model\elements\Element.class

@@ -1,0 +1,11 @@
+controller\CollisionManager.class
+controller\Controller.class
+controller\MoveManager.class
+controller\Controller$1.class
+controller\HeroManager.class
+controller\AIManager.class
+controller\CollisionManager$1.class
+controller\HeroManager$1.class
+controller\ThreadMonsters.class
+controller\AIManager$1.class
+controller\Clock.class

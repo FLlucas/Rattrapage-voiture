@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="projet_jeu/contract/src/main/java"/>
+	<classpathentry kind="src" path="projet_jeu/controller/src/main/java"/>
+	<classpathentry kind="src" path="projet_jeu/main/src/main/java"/>
+	<classpathentry kind="src" path="projet_jeu/model/src/main/java"/>
+	<classpathentry kind="src" path="projet_jeu/view/src/main/java"/>
+	<classpathentry kind="lib" path="projet_jeu/contract/target/contract-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="projet_jeu/controller/target/controller-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="projet_jeu/main/target/main-0.0.1-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="lib" path="projet_jeu/main/target/main-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="projet_jeu/main/target/original-main-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="projet_jeu/model/target/model-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="projet_jeu/view/target/view-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="projet_jeu/contract/target/classes"/>
+</classpath>
